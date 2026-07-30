@@ -1,10 +1,10 @@
-# Hi there, I'm Prathamesh 👋
+# ⚡ Welcome to My Workspace
 
 <table>
   <tr>
-    <!-- Left Side: ASCII Art -->
-    <td width="50%" valign="top">
-<pre style="font-family: monospace; font-size: 8px; line-height: 1; letter-spacing: 2px; color: #00ff00; background: #1a1a1a; padding: 10px; border-radius: 5px;">
+    <!-- Left Side: ASCII Art Terminal Vibe -->
+    <td width="40%" valign="top">
+<pre style="font-family: 'Courier New', Courier, monospace; font-size: 6px; line-height: 1.1; letter-spacing: 1px; color: #39FF14; background: #0D1117; padding: 15px; border: 2px solid #30363D; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
 ===========================================================================================+++++++++
 ===========================================================================================+++++++++
 ============================================================================================++++++++
@@ -66,17 +66,27 @@
 %%%%##*#%%@%%%##****##%%############%#****-**+++++++=..=#######################%%%############%%%##=
 </pre>
     </td>
-
     
-    <!-- Right Side: Bio and Info -->
-    <td width="50%" valign="top">
+    <!-- Right Side: Clean Bio & Correct Dynamic Stats -->
+    <td width="60%" valign="top">
       <h3>🚀 About Me</h3>
-      <p>Full Stack Developer | Open Source Enthusiast</p>
+      <p>💻 Full Stack Developer | Learning New Tech Daily</p>
+      <p>🎯 Turning coffee into clean code and creative designs.</p>
       
       <h3>🛠️ Tech Stack</h3>
-      <p>💻 JavaScript, Python, React, Node.js</p>
+      <p>
+        <img src="https://shields.io" />
+        <img src="https://shields.io" />
+        <img src="https://shields.io" />
+        <img src="https://shields.io" />
+      </p>
       
-      <h3>📊 GitHub Stats</h3>
+      <h3>📊 GitHub Statistics</h3>
+      <!-- Correct & Live Updating GitHub Stats Card -->
+      <img src="https://vercel.app" width="100%" />
+      
+      <br/><br/>
+      <!-- Top Languages Card -->
       <img src="https://vercel.app" width="100%" />
     </td>
   </tr>
