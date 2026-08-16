@@ -14,7 +14,7 @@
 <!-- ===== GITHUB STATS ===== -->
 - 🔭 I’m currently working on Pojects
 - 🌱 I’m currently learning LLM
-- ⚡ Fun fact: Self learner "study matters your mark doesn't"
+- ⚡ Fun fact: Self learner "study matters more's"
 <div align="center">
 
 <!-- Streak — full width -->
