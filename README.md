@@ -1,20 +1,51 @@
+<!-- ===================================================== -->
+<!--              PRATHAMESH — HACKER TERMINAL README      -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<!-- Typing animation banner (Matrix/terminal style) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=root%40prathamesh%3A~%24+whoami;%3E+SDE+%26+Full-Stack+Developer;%3E+Loading+skills...+%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25;%3E+ACCESS_GRANTED" alt="Typing SVG" />
+
+</div>
+
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
-<h1 align="center">Hi 👋, I'm Prathamesh</h1>
-<h3 align="center">A passionat SDE & Full-Stack developer
-</h3>
-<h3 align="center">"Real success comes from solving problems, not collecting certificates"
-</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/light.svg">
   <img alt="prathamesh" src="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/light.svg">
 </picture>
 
+<h1 align="center">Hi 👋, I'm Prathamesh</h1>
+<h3 align="center">A passionate SDE & Full-Stack Developer</h3>
+<h3 align="center">💬 "Real success comes from solving problems, not collecting certificates"</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-22D3EE?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0A101F" />
+  <img src="https://img.shields.io/badge/ROOT_ACCESS-GRANTED-10B981?style=for-the-badge&logo=linux&logoColor=white&labelColor=0A101F" />
+</p>
+
+<!-- ===== ABOUT / TERMINAL BLOCK ===== -->
+```bash
+$ cat about_me.txt
+```
+- 🔭 I'm currently working on **Projects**
+- 🌱 I'm currently learning **LLMs**
+- ⚡ Fun fact: Self-learner — *"study matters more than certificates"*
+- 💻 Always exploring new tech, breaking things, and fixing them again
+
+<!-- ===== TECH STACK ===== -->
+<div align="center">
+
+### 🛠️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,git,github,linux,docker,mongodb,mysql,vscode&theme=dark" alt="tech stack" />
+
+</div>
+
+> ✏️ *Edit the `i=` list above to match your actual stack — full list of supported icons at [skillicons.dev](https://skillicons.dev).*
+
 <!-- ===== GITHUB STATS ===== -->
-- 🔭 I’m currently working on Pojects
-- 🌱 I’m currently learning LLM
-- ⚡ Fun fact: Self learner "study matters more's"
 <div align="center">
 
 <!-- Streak — full width -->
@@ -37,8 +68,12 @@
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
+<!-- ===== TROPHIES ===== -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=prathameshkshirsagar532-hue&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="trophies" />
+</div>
 
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 <div align="center">
 
 <picture>
@@ -48,19 +83,21 @@
 </picture>
 
 </div>
-
 <!-- ===== END SNAKE ===== -->
+
 <br/>
-<br/>
+
+<!-- ===== PROJECTS ===== -->
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/projects/projects.svg" alt="Projects" />
 </div>
 
-<!-- ===== SOCIAL BADGES ===== -->
 <br/>
+
+<!-- ===== SOCIAL BADGES ===== -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arif-hasan-672249358/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
   <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
@@ -75,9 +112,12 @@
 <a href="mailto:prathameshkshirsagar13@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
-&nbsp;&nbsp;
+
 </div>
 
-<!-- ===== END SOCIAL BADGES ===== -->
+<!-- ===== VISITOR COUNTER ===== -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=prathameshkshirsagar532-hue&label=Profile%20Views&color=22D3EE&style=for-the-badge&labelColor=0A101F" alt="profile views" />
+</div>
 
-<!-- =================================== -->
+<!-- ===== END ===== -->
