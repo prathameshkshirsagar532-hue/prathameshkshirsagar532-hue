@@ -10,11 +10,9 @@
 </div>
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/light.svg">
-  <img alt="prathamesh" src="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/light.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/banner.svg" alt="Prathamesh banner" width="100%" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">A passionate SDE & Full-Stack Developer</h3>
