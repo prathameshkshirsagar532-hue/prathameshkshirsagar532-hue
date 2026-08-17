@@ -2,12 +2,7 @@
 <!--              PRATHAMESH — HACKER TERMINAL README      -->
 <!-- ===================================================== -->
 
-<div align="center">
 
-<!-- Typing animation banner (Matrix/terminal style) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=root%40prathamesh%3A~%24+whoami;%3E+SDE+%26+Full-Stack+Developer;%3E+Loading+skills...+%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25;%3E+ACCESS_GRANTED" alt="Typing SVG" />
-
-</div>
 
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <div align="center">
