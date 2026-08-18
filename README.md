@@ -114,3 +114,10 @@ $ cat about_me.txt
 </div>
 
 <!-- ===== END ===== -->
+<div align="center">
+  <h3>📊 3D Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%"/>
+  </picture>
+</div>
