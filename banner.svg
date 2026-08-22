@@ -24,7 +24,7 @@
     </clipPath>
 
     <clipPath id="typeMask">
-      <rect x="0" y="0" width="0" height="30">
+      <rect x="0" y="150" width="0" height="30">
         <animate attributeName="width" values="0;330;330;0" keyTimes="0;0.35;0.85;1" dur="6s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
