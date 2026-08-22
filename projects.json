@@ -1,44 +1,44 @@
 [
   {
-    "name": "LeadUnity",
-    "repo": "arifhaxn/lead_unity",
-    "logo": "logo.png",
-    "description": "Leading University's defense setup",
-    "tags": ["Flutter", "Dart", "NextJS"]
+    "name": "Project One",
+    "repo": "prathameshkshirsagar532-hue/project-one",
+    "logo": "project1.png",
+    "description": "Short description of what this project does",
+    "tags": ["Python", "Flask"]
   },
   {
-    "name": "OnePick",
-    "repo": "arifhaxn/one_pick",
-    "logo": "op.png",
-    "description": "An One Piece trivia app to find your character",
-    "tags": ["Flutter", "Dart"]
+    "name": "Project Two",
+    "repo": "prathameshkshirsagar532-hue/project-two",
+    "logo": "project2.png",
+    "description": "Short description of what this project does",
+    "tags": ["JavaScript", "React"]
   },
   {
-    "name": "Chessy",
-    "repo": "arifhaxn/chessy",
-    "logo": "chess.png",
-    "description": "Chess timer app for all types of variations",
-    "tags": ["Flutter", "Dart"]
+    "name": "Project Three",
+    "repo": "prathameshkshirsagar532-hue/project-three",
+    "logo": "project3.png",
+    "description": "Short description of what this project does",
+    "tags": ["Java", "MySQL"]
   },
   {
-    "name": "Claster",
-    "repo": "arifhaxn/Claster",
-    "logo": "claster.png",
-    "description": "A class scheduling app for teachers which is used to track routines",
-    "tags": ["Flutter", "Dart", "Firebase"]
+    "name": "Project Four",
+    "repo": "prathameshkshirsagar532-hue/project-four",
+    "logo": "project4.png",
+    "description": "Short description of what this project does",
+    "tags": ["Node.js", "MongoDB"]
   },
   {
-    "name": "OneTELE",
-    "repo": "arifhaxn/OneTELE---Liilab-Teleprompter",
-    "logo": "onetele.png",
-    "description": "A custom teleprompter for liilab's recording studio",
-    "tags": ["Flutter", "Dart"]
+    "name": "Project Five",
+    "repo": "prathameshkshirsagar532-hue/project-five",
+    "logo": "project5.png",
+    "description": "Short description of what this project does",
+    "tags": ["HTML", "CSS", "JavaScript"]
   },
   {
-    "name": "Career Logic AI",
-    "repo": "arifhaxn/CareerLogic-AI",
-    "logo": "cl.png",
-    "description": "An AI Powered CV management and assesment system for aspiring career builders",
-    "tags": ["Flutter", "Dart", "Groq"]
+    "name": "Project Six",
+    "repo": "prathameshkshirsagar532-hue/project-six",
+    "logo": "project6.png",
+    "description": "Short description of what this project does",
+    "tags": ["Docker", "Linux"]
   }
 ]
