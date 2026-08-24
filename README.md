@@ -80,6 +80,7 @@ $ cat about_me.txt
 
 <br/>
 
+
 <!-- ===== PROJECTS ===== -->
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/prathameshkshirsagar532-hue/prathameshkshirsagar532-hue/projects/projects.svg" alt="Projects" />
